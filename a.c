@@ -4,4 +4,5 @@
 /* skvbdkjvndkkf  */
 main (
 printf ("hello");
+printf ("world!");
 );
