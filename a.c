@@ -4,4 +4,5 @@
 
 main (
 printf ("hello");
+printf ("there!");
 );
